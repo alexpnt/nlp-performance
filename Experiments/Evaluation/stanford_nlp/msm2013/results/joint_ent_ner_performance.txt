@@ -1,0 +1,12 @@
+Number of documents:  2815
+#####Tokenization Results:#####
+Total Tokens:  52124
+Average Token per Document:  19
+Average Token Precision:  77.04% +/- 17.84
+Average Token Recall:  87.99% +/- 13.60
+Average Token F1 score:  82.15% +/- 14.51
+
+#####Tagging Results:#####
+Average Tag Precision:  73.35% +/- 18.73
+Average Tag Recall:  83.71% +/- 15.64
+Average Tag F1 score:  78.19% +/- 15.90
