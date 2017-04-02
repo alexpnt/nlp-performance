@@ -1,0 +1,56 @@
+<component name="libraryTable">
+  <library name="ant-1.9.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/apps/GATE/lib/ant-1.9.3.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/ant-launcher-1.9.3.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/apache-mime4j-core-0.7.2.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/apache-mime4j-dom-0.7.2.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/bcmail-jdk15-1.45.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/bcprov-jdk15-1.45.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/commons-codec-1.9.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/commons-compress-1.8.1.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/commons-io-2.4.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/commons-lang-2.6.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/commons-logging-1.1.3.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/flying-saucer-core-9.0.4.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/fontbox-1.8.8.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/gate-asm-5.0.3.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/gate-compiler-jdt-4.3.2-P20140317-1600.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/ivy-2.3.0.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/jackson-annotations-2.3.0.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/jackson-core-2.3.2.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/jackson-databind-2.3.2.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/java-getopt-1.0.13.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/jaxen-1.1.6.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/jdom-1.1.3.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/jempbox-1.8.8.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/joda-time-2.6.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/junit-4.11.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/nekohtml-1.9.14.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/pdfbox-1.8.8.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/poi-3.11.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/poi-ooxml-3.11.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/poi-ooxml-schemas-3.11.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/poi-scratchpad-3.11.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/spring-aop-2.5.6.SEC01.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/spring-beans-2.5.6.SEC01.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/spring-core-2.5.6.SEC01.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/stax2-api-3.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/tika-core-1.7.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/tika-parsers-1.7.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/woodstox-core-lgpl-4.2.0.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/xercesImpl-2.9.1.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/xmlbeans-2.6.0.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/xmlunit-1.5.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/xpp3-1.1.4c.jar!/" />
+      <root url="jar://$USER_HOME$/apps/GATE/lib/xstream-1.4.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/apps/GATE/lib/java-getopt-1.0.13.jar!/" />
+    </SOURCES>
+  </library>
+</component>
