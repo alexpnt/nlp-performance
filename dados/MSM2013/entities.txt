@@ -1,0 +1,2815 @@
+LOC/Thai Buddhist temple;
+LOC/canada;
+PER/louis;
+ORG/WikiLeaks;LOC/Southern Ocean;
+ORG/queen;
+PER/cheryl cole;PER/Danni;PER/eddie;
+ORG/Lester;
+PER/Thomas Watson;
+PER/Sanchez;PER/Eli Wallach;MISC/The Good, The Bad and the Ugly;
+
+MISC/Entertainment Tonight;ORG/Yahoo ! News;
+PER/Julian Assange;
+MISC/The Day After;LOC/Broadway & 4th Street;
+
+LOC/Beirut;
+LOC/Iran;
+PER/Sarkozy;LOC/Iran;
+LOC/New Orleans;LOC/NEW ORLEANS;
+ORG/Twitter;
+ORG/Labour Party;
+MISC/Olympics;
+LOC/Australia;
+PER/Banksy;MISC/Oscar;
+LOC/Beijing;MISC/2015 World Champs;
+LOC/Namibia;
+LOC/South Island;LOC/New Zealand;ORG/Reuters;
+MISC/Nobel Peace Prize;LOC/China;PER/Liu Xiaobo;
+
+ORG/Twitter;
+ORG/Home Office;
+ORG/Republican Party;LOC/America;
+PER/Banksy;MISC/Oscar;
+ORG/NHS;
+LOC/China;
+ORG/Twitter;
+
+LOC/GB;LOC/Chicago;
+ORG/Médecins Sans Frontières;
+PER/Aung Suu Kyi;LOC/Burma;
+LOC/London;MISC/Afghan war;
+LOC/Detroit;
+
+ORG/CNN;
+
+ORG/EDL;LOC/Wolverhampton;
+LOC/Haiti;
+LOC/North Korea;LOC/U.S.;
+ORG/Groupon;ORG/Google;
+ORG/Merck;
+PER/Obama;PER/Medvedev;ORG/Senate;
+ORG/GOP;MISC/American;
+ORG/GOP;
+LOC/Russia;
+LOC/Abergavenny;LOC/south Wales;
+
+LOC/Afghan;LOC/Arizona;
+ORG/GOP;PER/Murkowski;
+LOC/Ireland;LOC/Emerald isle;
+LOC/WELLINGTON;LOC/New Zealand;ORG/AP;LOC/New Zealand;
+LOC/Damascus;
+ORG/Wired;
+LOC/East Coast;
+ORG/China;
+LOC/Northern Mexico;
+ORG/Tea Party;PER/Boehner;ORG/Tea Party;
+ORG/NSA;
+ORG/EAGLES;LOC/Bangkok;
+
+
+ORG/Google;ORG/Groupon;
+LOC/west coast;
+PER/Lady Gaga;LOC/Helsinki;
+PER/Lady Gaga;LOC/Helsinki;
+PER/Aretha Franklin;
+PER/Lady Gaga;
+ORG/McDonald 's;
+PER/Cai Chun Jia;
+PER/Fish Leong;
+ORG/YouTube;
+LOC/St. Georges Mill;
+LOC/London eyes;
+ORG/YouTube;
+ORG/Department of Health;
+ORG/NHS;ORG/National Health Service;
+
+
+
+PER/Clark Cable;
+LOC/Newark;PER/superman;
+ORG/Circle K;
+
+
+MISC/Rocky V.;
+MISC/THE WHOLE TRUTH;MISC/PSYCH;
+PER/Scott Speedman;
+PER/Tony Russo;
+LOC/dallas;
+ORG/Twitter;
+LOC/new england;
+PER/Anais;PER/Gallagher;PER/Meg Mathews;PER/Mathews;
+PER/Sara MacDonald;
+LOC/yemen;PER/bin laden;PER/binny;
+LOC/UK;ORG/Rage Against The Machine;
+LOC/Manchester;
+PER/Tiger;PER/Tony Parker;
+
+ORG/HTC;
+PER/Clint;
+PER/Clint;
+MISC/the world cup;LOC/England;
+PER/B.C.;PER/B.C.;
+LOC/MINN.;
+PER/Bill Donohue;ORG/Smithsonian;
+ORG/Twitter;
+
+ORG/Asymmetric Warfare Group;
+LOC/United Kingdom;
+LOC/New York;
+LOC/Oklahoma;LOC/Texas;
+PER/nicole;LOC/malaysia;LOC/malaysia;
+LOC/auckland;
+PER/Chris Hanson;
+
+PER/Sue;
+ORG/YouTube;
+
+LOC/Berlin;MISC/1st Berliner Frauenkrimifestival;MISC/Lesemarathon;
+
+PER/Baba Iyabo;
+ORG/Bankole and co.;ORG/cooks and co;
+
+LOC/Odaiba;
+PER/Albert Alletzhauser;
+PER/Stan;LOC/New England;
+LOC/Montreal;
+LOC/MB;
+PER/Rev Run;
+PER/Ms. Sherrie Murphey;
+PER/Ms. Sherrie Murphey;
+LOC/UK;PER/Lowcock;ORG/Aid Preachers;
+PER/Palin;MISC/American Idol;ORG/AP;PER/Sarah Palin;
+
+MISC/What Would You Do ?;
+PER/MURDOCH;PER/Romney;ORG/GOP;
+PER/nicki minaj;
+LOC/US;
+
+
+
+LOC/US;PER/Israelis;
+
+
+LOC/Hawaii;
+
+LOC/Kern County;
+ORG/Marine Corps;
+MISC/Olympics;MISC/MMA;
+LOC/LA;LOC/Riverside County;
+LOC/LA;LOC/Lake Tahoe;LOC/South Tahoe;LOC/Incline Village;
+LOC/Vermont;
+MISC/Ali;
+ORG/NATO;LOC/IRAQ;
+MISC/Toy Story 3;
+LOC/NYC;LOC/NBC Experience store;
+ORG/Amnesty;
+
+PER/Nicki Minaj;
+ORG/EU;
+
+
+PER/morgan freeman;
+ORG/CONGRESS;PER/OBAMA;
+ORG/Amazon;
+ORG/Senate;
+ORG/Reuters;
+LOC/Brooklyn Flea;
+LOC/California;
+PER/Hill;
+ORG/Army;
+LOC/Los Angeles;
+PER/Angie;ORG/Twitter;
+PER/Angie;ORG/Army;
+
+LOC/Canada;
+
+ORG/Delifrance;LOC/Tampines Mall;
+ORG/Twitter;
+
+LOC/America;
+LOC/UK;
+LOC/Mid-Atlantic;
+PER/John Hughes;
+PER/Adam Lam;
+ORG/FBI;PER/Nas;
+ORG/Twitter;
+LOC/S Korea;
+PER/Dale Carnegie;
+ORG/Twitter;
+LOC/India;
+LOC/Chicago;
+
+PER/Andrea Yates;
+
+MISC/Kiss Goodbye;
+
+PER/Stephan Colbert;
+PER/Franklin Raines;ORG/Fannie Mae;
+ORG/Senate;
+PER/Harris;
+ORG/House of Representatives;
+LOC/Oxford;
+
+LOC/EU;
+PER/manas-chaudhuri;
+
+PER/manas-chaudhuri;
+ORG/MS;ORG/Google;
+
+LOC/Korea;
+LOC/Korea;
+LOC/Nazi Germany;
+PER/Blunt;
+LOC/Ireland;
+PER/Leslie Nielsen;
+LOC/Ghana;
+LOC/The West;ORG/al-Qaeda;
+LOC/UK;MISC/Iraq war;
+ORG/Wikileaks;LOC/Europe;
+PER/Liam Fox;
+
+PER/Palmer;
+PER/Gavin Henson;PER/Barry chuckle;PER/will ferrell;
+ORG/BBC;
+PER/David Haye;PER/Audley;
+
+LOC/Tooth Fairies castle;
+LOC/UK;
+ORG/Pirate Bay;
+
+
+MISC/MMA;LOC/Glasgow;
+LOC/UK;LOC/UK;PER/JESUS;
+LOC/America;
+ORG/NATO;LOC/Afghanistan;
+PER/jerry yang;PER/david filo;
+PER/Fiona;ORG/BBC;
+PER/Breitbart;ORG/ADL;
+LOC/US;
+LOC/Pakistan;
+LOC/North Korea;LOC/South Korea;MISC/Asian;
+LOC/Australia;LOC/Blackwater;LOC/Christmas Island;
+LOC/Nazi Germany;
+LOC/Pakistan;
+ORG/Pepsi;ORG/Coke;ORG/BRICA Group;
+LOC/UK;
+LOC/UK;LOC/UK;
+PER/RICK JOYNER;LOC/JIM BAKKER BUILDING;
+LOC/Ariz.;
+LOC/Russia;
+LOC/US;
+PER/Sepp Blatter;
+ORG/fifa;
+ORG/Nato;LOC/Portugal;
+LOC/India;PER/Gandhi;
+LOC/Ireland;LOC/Europe;
+ORG/BBC;
+ORG/BBC;
+LOC/Nairobi Airport;
+
+ORG/Labour;ORG/LABOUR;ORG/PARLIAMENT;
+PER/MOZART;
+PER/Sackur;PER/Courtney Griffiths;PER/Mugabe;PER/Taylor;
+ORG/Turkish Airlines;ORG/BA;
+PER/Nick Oliver;
+PER/Nick Oliver;
+LOC/north korea;LOC/north korea;
+PER/Palin;LOC/USA;
+PER/Simpson;LOC/Burma;LOC/Nairobi;
+
+
+
+LOC/UK;LOC/UK;
+LOC/UK;
+LOC/UK;LOC/UK;PER/JESUS;
+ORG/UN;
+LOC/Mogadishu;
+LOC/Europe;
+PER/Mike Gardner;ORG/states;
+LOC/US;LOC/America;
+LOC/the West;LOC/Haiti;
+LOC/North Korea;
+
+
+LOC/Egypt;
+LOC/Kenya;
+ORG/UK government;LOC/Guantanamo Bay;
+ORG/Wikileaks;LOC/US;
+ORG/Wikileaks;LOC/US;
+PER/Richard;
+MISC/Hemingway and Gellhorn;PER/Philip Kaufman;
+LOC/Singapore;
+LOC/columbia;
+LOC/brazil;PER/Ozzy;
+ORG/Twitter;
+PER/Ronnie Corbett;
+PER/Cutler;MISC/the NFC Championship;
+PER/Justin;ORG/YouTube;
+PER/Sampson;
+
+
+PER/Barbara;PER/Jessica;
+
+PER/Parker;PER/Richard Jefferson;
+LOC/GREAT BRITAIN;
+LOC/Amherst , MA;ORG/UMass;
+PER/Bob Harris;
+ORG/Packers;MISC/superbowl;
+LOC/Mecca;
+MISC/Da Vinci Code;MISC/Angels and Demons;
+PER/Malik El-Shabazz;
+LOC/RI;
+PER/Little Brother;
+ORG/Illuminati;PER/Lucifer;PER/God;
+PER/Tom Hanks;PER/Robert Langdon;
+LOC/France;
+LOC/Canada;
+LOC/USA;LOC/Plymouth;
+PER/Christina Hendricks;
+LOC/Jaynestown;
+ORG/Mustafa Centre;
+LOC/Butter Factory;
+
+PER/India Arie;
+
+PER/Brittany;
+PER/Jay Cutler;
+LOC/US;
+PER/teena marie;ORG/cnn;
+PER/roland martin;ORG/CNN;
+LOC/canada;
+
+LOC/west coast;
+LOC/Canada;
+PER/Barry;
+MISC/the grammy;
+PER/jaksoN;
+LOC/Chicago;LOC/SC;
+PER/Magne Hoseth;PER/Jonas Lunden;PER/Mark Kerr;PER/Eugen Bopp;
+PER/MURDOCH;PER/Romney;ORG/GOP;
+ORG/facebook;ORG/Twitter;
+ORG/CNN;
+
+ORG/Google;ORG/Google;
+LOC/Iran;
+LOC/US;LOC/Iraq;LOC/Afghan;
+
+LOC/Charleston;
+PER/Julian Sands;
+PER/Jen Grey;PER/kyle massey;
+PER/Mrs. Booze;
+
+LOC/US;
+MISC/Twink and Maureen Potter;MISC/Something Happens and an Emotional Fish;LOC/Baggot Inn;
+LOC/La County;PER/Leslie Moonves;PER/Steve Cooley;PER/Hanie Yoon;
+PER/Jay Cutler;ORG/jerseys;
+PER/Jenny Garth;
+PER/jakson;
+PER/Susan boyle;LOC/Halifax;
+PER/Julian Rush;LOC/NZ;
+PER/Julian Sands;
+
+MISC/Whitney Houston;
+ORG/NFL;
+
+ORG/Bears;PER/Caleb Haine;PER/Haine;PER/Haine;ORG/Bears;
+LOC/Bangkok;
+ORG/Cisco;
+LOC/Miami-Dade County;
+PER/Cathie Black;
+PER/Cathie Black;
+PER/Cathie Black;LOC/Notre Dame;LOC/NYC;
+PER/Cathie Black;LOC/Brooklyn Boro Hall;
+PER/Cathie Black;
+LOC/NY;
+ORG/Saks Fifth Avenue;
+PER/Berlusconi;LOC/Italy;
+MISC/MMA;ORG/CNN;
+PER/cooper;PER/cooper;
+MISC/MMA;ORG/CNN;
+MISC/MMA;ORG/CNN;
+MISC/MMA;ORG/CNN International;
+PER/Arthur;
+LOC/Haiti;
+
+PER/B. Palin;
+ORG/Peter G. Peterson Foundation;
+PER/Charlie Rangel;
+
+
+PER/Jessica;ORG/CNN;
+PER/bush jr;
+
+LOC/California;
+PER/PALIN;
+
+
+PER/Edward Nigro;
+PER/Bruce Jenkins;PER/Gael Monfils;
+PER/obama;
+ORG/Time Warner;
+PER/RICK JOYNER;LOC/JIM BAKKER BUILDING;
+ORG/Fed Ex;
+PER/Federer;MISC/ATP World Tour;PER/Nadal;PER/Roger Federer;PER/Rafael Nadal;
+PER/Federer;PER/Murray;MISC/ATP World Tour Finals;LOC/LONDON;ORG/AP;PER/Roger Federer;
+PER/Francesca Schiavone;
+ORG/CNN;
+ORG/GOP;
+PER/Sarah;LOC/Alaska;
+PER/Jon Wertheim;PER/Federer;MISC/Paris Masters;PER/Federer;
+PER/Edward Nigro;
+LOC/Michigan 's Lansing Community College;
+PER/Mike Bloomberg;PER/Cathie Black;
+PER/Monfils;PER/Federer;MISC/Paris Masters;
+PER/Michelle;PER/Sasha;PER/Malia;
+LOC/China;LOC/Koreas;
+PER/Nadal;MISC/ATP tournament;LOC/LONDON;ORG/AP;
+MISC/MMA;ORG/CNN;
+MISC/MMA;ORG/CNN International;
+PER/Michael Vick;
+PER/Arthur;
+PER/Arthur;
+
+PER/sarah;
+PER/Kym Rock;
+PER/Monfils;ORG/Paris Masters;PER/Robin Soderling;ORG/Paris Masters;
+LOC/New Zealand;
+PER/Bush;
+PER/Jesus Christ;
+PER/Anderson Cooper;LOC/Haiti;
+
+PER/Gibbs;
+LOC/US;ORG/Repubs;
+LOC/Korea;ORG/defense department;
+
+LOC/Congo;
+MISC/Americans;LOC/Pakistan;
+LOC/Billy James Music Store;
+PER/Bush;
+LOC/Israel;MISC/arabs;
+MISC/MMA;ORG/CNN;
+PER/Rama;ORG/CIA;LOC/US;
+ORG/CIA;ORG/Wikileaks;PER/Rama;
+
+PER/Rama;
+PER/Sikhandi;
+LOC/U.S.;
+LOC/Scottish forest;
+LOC/N. Korea;LOC/Seoul;LOC/Seoul Korea;
+ORG/Congress;
+ORG/Petagon;ORG/Congress;
+LOC/US;LOC/UK;
+PER/Kamal ` Nath;
+ORG/GOP;LOC/USA;
+ORG/Military;PER/McCain;
+PER/GW Bush;
+
+LOC/New Zealand;
+PER/Pablo Pica;
+LOC/New Zealand;
+LOC/Ohio;
+MISC/Cambodia festival;
+LOC/Minnesota;
+LOC/India;
+LOC/India;
+LOC/Mexico;
+
+ORG/Al Qaeda;MISC/Americans;
+PER/Colton Harris-Moore;
+PER/Amanda Knox;PER/Amanda Knox;
+ORG/FBI;
+ORG/APEC;ORG/Asia-Pacific Economic Cooperation;
+LOC/Arizona;LOC/Arizona;
+LOC/Pakistan;LOC/Pakistan;
+PER/Justin Bieber;MISC/2010 American Mu;
+ORG/CONGRESS;LOC/US;
+PER/Holloway;LOC/Aruban beach;
+
+
+PER/Bush;ORG/Tea Party;PER/Obama;
+PER/Kim Jung Il;
+ORG/Facebook;ORG/Myspace;
+LOC/Iran;
+
+PER/Obama;PER/bush;
+PER/Chandra Levy;
+PER/Charles Rangel;MISC/Korean;ORG/CNN;
+LOC/Chile;LOC/CNN Heroes tribute;MISC/Chilean;
+LOC/China;LOC/North Korea;
+LOC/Haiti;
+LOC/Haiti;
+PER/Clinton;PER/Hillary Clinton;
+ORG/Coke;ORG/Pepsi;ORG/BRICA GROUP;
+
+LOC/America;
+LOC/America;
+
+
+ORG/GOP;ORG/GOP;
+LOC/UK;
+LOC/North Korea;
+ORG/Facebook;
+LOC/Hollywood;LOC/Beverly Hills;PER/Ronni Chase;
+
+LOC/California;
+PER/Francois Fillon;
+LOC/Gaza;LOC/Greece;LOC/Gaza;
+ORG/GOP;
+LOC/Gaza;LOC/Gaza;
+LOC/Haiti;
+LOC/Haiti;LOC/Haiti;
+LOC/Haiti;LOC/Haiti;
+ORG/U.N.;
+ORG/House Dems;ORG/GOP;
+PER/Billy James;
+
+
+
+LOC/Haiti;LOC/Haiti;
+LOC/Iraq;
+LOC/Ireland;LOC/Ireland;
+
+LOC/U.S.;LOC/U.S.;
+PER/Leslie Nielsen;MISC/Naked Gun;MISC/Airplane;PER/Leslie Nielsen;
+
+ORG/GOP;ORG/Congress;
+
+ORG/Marine;MISC/Toys for Tots;ORG/Marine Corps;MISC/Toys for To;
+ORG/CIA;ORG/CIA;
+LOC/Mexico;LOC/Mexico;
+ORG/Military;LOC/Rio;
+LOC/Haiti;ORG/Christian Motorcyclists Association;LOC/Haiti;
+PER/Brian David Mitchell;PER/Elizabeth Smart;
+LOC/Ohio;
+PER/Murkowski;LOC/Alaska;PER/Lisa Murkowski;LOC/Alaska;
+LOC/N. Korea;
+PER/Nancy Grace;PER/Nancy Grace;
+ORG/GOP;PER/Sarah Palin;
+LOC/N. Korea;
+LOC/North Carolina;PER/Zahra Baker;
+PER/Obama;
+PER/Obama;PER/Joseph Farah;
+LOC/U.S.;LOC/Pakistan;LOC/U.S.;
+PER/Beck;PER/Soros;
+PER/Aya abu Mouwais;
+PER/Palin;ORG/Alaska Gov.;
+LOC/Georgia;
+
+LOC/Haiti;
+
+
+LOC/Washington;
+PER/Ronni Chasen;
+ORG/Qantas;ORG/Qantas Airways;
+LOC/Salvation Army facility;ORG/Salvation Army;
+LOC/Saudi Arabia;
+
+PER/Kym Rock;
+
+LOC/Michigan mall;LOC/Michigan mall;
+LOC/Wisconsin;
+PER/Leslie Neilsen;
+
+LOC/UK;
+LOC/Boston airport;LOC/Boston Logan;
+LOC/Rio de Janeiro;PER/Aleamo;
+LOC/Oregon;
+LOC/Texas;LOC/Texas;
+
+ORG/FBI;
+LOC/Haiti;PER/Rene Preval;
+LOC/Arizona;
+
+LOC/Mississippi;
+LOC/Wisconsin;LOC/Wisconsin;
+LOC/Aruba;
+ORG/TSA;ORG/Transportation Security Admini;
+PER/Madoff;PER/Bernard M.;
+LOC/U.S.;MISC/N. Korean;LOC/United States;
+LOC/U.S.;LOC/Israel;
+ORG/UN;
+LOC/US;LOC/America;
+ORG/Twitter;
+LOC/California;
+LOC/South Korea;
+LOC/S. Korea;
+
+ORG/WikiLeaks;LOC/U.S.;ORG/WikiLeaks;
+ORG/Congress;
+LOC/Wisconsin;LOC/Wisconsin;
+ORG/Twitter;
+PER/Obama;ORG/Twitter;
+ORG/Twitter;
+PER/Zsa Zsa Gabor;PER/Zsa Zsa Gabor;LOC/Los A.;
+ORG/CIA;PER/Sonia;
+ORG/Congress;
+PER/Mahavir Prasad Verma;
+ORG/CIA;ORG/CIA;
+ORG/CIA;LOC/Lalita Park;ORG/CIA;
+PER/Rama;
+PER/Rama;LOC/Bihar;
+ORG/CIA;PER/Lord Rama;ORG/CIA;
+LOC/India;
+ORG/UNSC;ORG/CIA;
+ORG/al Qaeda;
+MISC/U.S. Geological Survey reports;
+
+LOC/Missouri;
+LOC/New zealand;LOC/Auckland;PER/jakson;
+ORG/CNN;
+PER/Sarah;PER/God;
+ORG/GOP;
+
+ORG/GOP;
+
+LOC/Afghanistan;
+PER/Sarah Palin;PER/Ronald Reagan;PER/John McCain;PER/John McCain;
+PER/Bush;ORG/Harvard;
+
+
+
+PER/Brad;
+LOC/Japan;LOC/Tokyo;
+
+LOC/Florida;
+LOC/canada;
+LOC/chicago;PER/TJ holmes;
+LOC/Ohio;LOC/Cali;
+PER/Tony Robbins;PER/jakson;
+PER/Tony Robbins;PER/jakson;
+ORG/Twitter;
+PER/Paul Bliss;
+MISC/Wizard of Oz;PER/Glinda;
+MISC/The Perfect Nanny;
+PER/Waka;
+PER/Ima;
+PER/Crystal;LOC/CA;LOC/NH;
+
+
+
+PER/Jane;PER/POTUS;LOC/South Korea;
+PER/POTUS;LOC/SOUTH Korea;LOC/USA;LOC/KOREA;MISC/KOREAN;LOC/USA;
+PER/Richard Branson;
+PER/Dick Lugar;ORG/YouTube;
+PER/Dick Lugar;ORG/GOP;
+LOC/Germany;LOC/MUMBAI;
+LOC/TEXAS;
+LOC/OHIO;
+PER/Jane;PER/POTUS;LOC/South Korea;
+ORG/FORD;LOC/SOUTH KOREA;PER/JANE SAYS;
+MISC/AMERICA;LOC/VERMONT;
+MISC/AMERICANS;LOC/GERMANY;
+PER/MURDOCH;PER/Roger AIles;LOC/USA;LOC/KOREA;LOC/USA;
+LOC/LISBON;
+LOC/MS;PER/HALEY BARBOUR;
+LOC/MS;PER/HALEY BARBOUR;
+ORG/TEA PARTY;
+ORG/TEA PARTY;PER/BOEHNER;
+ORG/SHELL OIL;MISC/IRAQ WAR;LOC/IRAQ;
+ORG/SHELL OIL;
+ORG/TEA PARTY;ORG/TEA PARTY;
+PER/ROB;LOC/MURDOCH UNIVERSITY;
+PER/Susan;ORG/TEA PARTY;ORG/GOP;
+ORG/TEA PARTY;
+ORG/TEA PARTY;ORG/TEA PARTY;
+ORG/GOP;ORG/PDB;PER/GW BUSH;
+LOC/IOWA;
+ORG/CONGRESS;
+ORG/TEA PARTY;PER/BOEHNER;
+LOC/Korea;
+LOC/Halifax;
+PER/Shannon Brown;
+
+ORG/FBI;
+PER/Pollyanna;PER/Philly;PER/Kris Kringle;PER/Pollyanna;
+
+PER/Dan;PER/Jessica;
+PER/Leigh;LOC/Bournemouth;LOC/London;LOC/b ` mouth;
+MISC/Any Human Heart;PER/Jim Broadbent;
+PER/Darey;
+PER/Phil Collins;PER/Darey;PER/Phil Collins;
+
+PER/Franklin Raines;ORG/Fannie Mae;
+
+LOC/China;LOC/United States;
+LOC/U.S.A.;
+
+LOC/Egypt;
+
+LOC/Bristol;
+
+LOC/SINGAPORE;
+
+LOC/United States;
+PER/Randy;PER/Jessica;
+ORG/NFL;
+ORG/U.N.;PER/jakson;
+ORG/U.N.;PER/jakson;LOC/NZ;
+
+MISC/Cuban;LOC/Haiti;
+
+PER/Stefan;PER/Elena;
+ORG/SEC;
+LOC/London;
+LOC/Canada;
+LOC/UK;
+LOC/Manchester;LOC/Sheff;
+LOC/Chicago;
+LOC/Chicago;
+MISC/A Christmas Story;
+ORG/WIBC;LOC/Indianapolis;
+
+LOC/Florida;
+ORG/Dollar Tree;
+LOC/South Beach;
+ORG/GOP;
+
+LOC/Borders cafe;
+PER/Amanda Cox;
+LOC/New York;
+LOC/Columbia;
+ORG/Twitter;
+
+
+PER/Dr. Natalie;
+
+LOC/Japan;
+ORG/CNN;LOC/PUERTO RICO;
+MISC/BAFTA;MISC/Academy Award;
+PER/Daniel Radcliffe;PER/Robert Pattinson;
+LOC/Palau;
+LOC/NJ;
+PER/Ellie;
+
+
+PER/Clive Owen;
+PER/usher;PER/r kels;
+LOC/San Francisco;PER/Hemingway;PER/Gellhorn;PER/Philip Kaufman;
+PER/Paul shaw;
+PER/Pam Ann;LOC/LA;
+ORG/lcfc;
+PER/Chris;PER/Franklin Raines;ORG/Fannie Mae;
+PER/Elizabeth Edwards;
+PER/Leslie Nielsen;
+PER/Lindsay Lohan;
+PER/Scott Mills;
+PER/Franklin Raines;ORG/Fannie Mae;
+PER/bieber;MISC/the golden globes;
+PER/Scott Norwide;
+PER/Scott Norwide;
+ORG/Victoria 's Secret;
+PER/Mariah Carey;
+PER/Tony Robbins;ORG/google;
+PER/Richard Branson;
+
+
+
+
+PER/Clive Owen;
+
+LOC/st. Louis;LOC/chicago;LOC/usa;
+
+LOC/L.A.;
+ORG/NFL;
+
+
+PER/Chris Henry;
+
+PER/Dr K Khare;PER/Pooja Khare;PER/Shalu Jindal;LOC/UK;LOC/UK;PER/Sunita Khare;PER/SPillay;
+
+PER/Iris Gueller;
+PER/Michelle Obama;
+ORG/Facebook;PER/Cris Collinsworth;
+
+PER/Betty White;
+PER/Betty white;
+ORG/jets;PER/Sanchez;LOC/pittsburgh;
+LOC/leeds;LOC/sheffield;
+
+LOC/south Africa;
+
+MISC/the super bowl;
+ORG/Packers;MISC/Super Bowl;
+LOC/Florida;PER/Rudolph Valentino;
+
+LOC/southampton;
+LOC/Rome;
+
+LOC/Tennessee;
+PER/Jay Cutler;
+
+
+PER/Justin D Bieber;
+LOC/indonesia;
+LOC/URUGUAY;
+
+PER/Franklin Raines;ORG/Fannie Mae Katie;
+
+MISC/SB;PER/Rex Ryan;
+
+PER/KYLE;
+
+
+MISC/super bowl;
+ORG/Tayto;ORG/King;
+MISC/NFL;
+MISC/Java;
+PER/Roger;
+PER/Holly;PER/Colin Cowie;
+
+
+PER/Nicki Minaj;
+MISC/NFL;
+LOC/cambridge;LOC/cambridge;
+PER/Christian Wigg;
+
+ORG/Sol-Ice;
+PER/Sam;PER/Seth Levinson;ORG/Yankees;
+PER/Paul McCartney;
+PER/Paul McCartney;
+PER/Ann Murray;
+ORG/Bears;ORG/Packers;LOC/Green Bay;LOC/Chicago;
+PER/Barbara Stanwyck;
+
+PER/Hayward;PER/Sloan;ORG/nba;
+
+
+LOC/Anguilla;PER/Mario;
+LOC/WINSTON-SALEM;LOC/N.C.;ORG/AP;PER/Kyle Singler;
+PER/Bruno Mars;
+PER/Wale;
+PER/Tiger Woods;
+PER/Richard Branson;
+PER/Franklin Raines;ORG/Fannie Mae;
+PER/Canibus;
+
+PER/Clive Owen;PER/Kate Middleton;
+
+PER/Bush;PER/Palin;
+
+
+PER/Lee Burke;
+
+PER/jay;ORG/denver;ORG/bears;MISC/NFC title;
+PER/Don Tomaso Dr.;PER/Chad Ochocinco Johnson;PER/Chauncy;PER/Paula;
+PER/Ronny Turiaf;
+MISC/Heavyweights;MISC/The Goonies;MISC/Little Giants;MISC/The Might Ducks;
+LOC/The Palace StripClub;PER/DJ WALLAH;
+PER/John Forte;
+
+
+PER/Birdman;PER/Lil Wayne;
+PER/Dick Lugar;ORG/GOP;
+PER/Niall;PER/Harry;PER/Louis;
+
+
+
+LOC/taiwan;
+PER/Sudha Pillay;ORG/DFID;
+PER/Sudha Pillay;PER/Dr RS Khare;ORG/UKgov;ORG/DFID;
+MISC/Harry Potter;
+
+LOC/Pakistan;
+
+MISC/Billy James Show;
+
+PER/Tim Naftali;LOC/US;
+
+PER/jerry yang;PER/david filo;
+
+
+PER/Sarah Palin;PER/Robert E. Lee;
+PER/Salvatore Giunta;
+PER/Douglas H Shulman;
+
+ORG/nytimes;
+
+LOC/America;PER/Billy James;
+PER/Edward Nigro;
+PER/mr. Calderon;LOC/africa;
+LOC/NYC;
+LOC/NYC;LOC/Moscow;LOC/Paris;
+LOC/NYC;LOC/Moscow;LOC/Paris;
+LOC/NYC;
+PER/Christina Milian;
+
+PER/RICK JOYNER;LOC/JIM BAKKER BUILDING;
+PER/JESUS CHRIST;
+
+PER/Dermot Ahern;
+
+
+PER/Cathie Black;LOC/Notre Dame;LOC/NYC;
+
+LOC/India;
+MISC/iraqi muslims;LOC/olklahoma;
+PER/Kristen Blackman;
+PER/Edward Nigro;
+PER/George W. Bush;
+PER/Mary Kirkpatrick;
+
+PER/Cathie Black;LOC/Brooklyn Boro Hall;
+PER/palin;LOC/iran;
+PER/Jesus;
+PER/Jesus;
+PER/JESUS CHRIST;
+PER/JESUS CHRIST;
+PER/George W. Bush;
+ORG/nytimes;
+
+LOC/US;
+
+PER/Paul Strand;
+
+MISC/English;MISC/Dutch;
+PER/Bryan;
+PER/Ben Button;
+ORG/Youtube;
+PER/Montaigne;PER/Jack Beatty;
+
+PER/Lou Reed Live;
+PER/Heidi Montag;PER/Justin Bieber;
+
+
+ORG/Netherlands;ORG/Feyenoord;ORG/Arsenal;
+
+PER/Kay Ganda;
+
+
+
+PER/Ali;ORG/bears;
+PER/Colbie;PER/Joss Stone;
+
+ORG/Twitter;ORG/facebook;
+PER/drew lachey;PER/emmit smith;
+
+ORG/Bears;PER/Carson Palmer;PER/Carson Palmer;
+PER/Franklin Raines;ORG/Fannie Mae;
+PER/Franklin Raines;ORG/Fannie Mae;
+PER/Franklin Raines;ORG/Fannie Mae;
+
+ORG/Green Bay Packers;MISC/Super Bown;
+PER/Arnold;PER/Gerald;
+PER/Buffy;
+PER/Messi;PER/Xavi;
+PER/Fergie;
+PER/Fergie;
+PER/Jimmy Carr;
+ORG/Burger King;
+
+PER/Jean Auel;
+MISC/Japanese;
+PER/Solomon;PER/Socrates;PER/Shakespeare;
+PER/Charles;
+
+ORG/Hen Party;
+PER/michael jackson;
+MISC/Super Bowl;
+PER/Joel Osteen;
+
+PER/IMMA;
+PER/Cris Collinsworth;
+PER/Caleb Hanie;
+PER/Peter Onipe;
+ORG/ATL;
+
+
+
+
+
+LOC/Vietnam;
+PER/OJ;PER/Bush;PER/Clinton;
+PER/Ed Lover;
+PER/Rih Rih;PER/Katy Perry;
+PER/Sam Malone;
+PER/steve hope;PER/mark watson;
+
+
+
+PER/Taylor Swift;PER/Justin Bieber;
+ORG/NBA;ORG/NCAA;
+ORG/Paypal;
+LOC/spain;
+
+PER/Toyin;
+MISC/Love and other drugs;
+PER/Katy Perry;
+ORG/YouTube;
+PER/Sarah Palin;
+
+MISC/PHP;
+
+ORG/Disney;PER/Miley Cyrus;ORG/Disney;
+PER/Hitler;
+PER/gareth brooks;
+PER/Dr. Ryan;
+PER/Marsha Ambrosious;
+
+LOC/UK;ORG/DFiD;PER/Khares-Ananya Khare;PER/Shagun Khare;
+
+PER/Tiwa;
+PER/Jim Rohn;
+
+
+PER/reggie bush;
+PER/Clive Owen;PER/Stanely Tucci;
+PER/DEVON SAWA;
+PER/Madoff;
+PER/Richard Branson;
+PER/Richard Branson;
+PER/Cutler;LOC/the city of Chicago;PER/Cutler;
+PER/Kathleen Kennedy Townsend;PER/Palin;
+PER/Kathleen Kennedy Townsend;PER/Palin;
+PER/Mark;LOC/Wolverhampton;
+PER/Ty;
+PER/Christ;
+
+PER/Oscar Wilde;
+
+PER/Belle Amie;
+PER/Kevin;
+
+PER/George Clooney;MISC/Inception;
+PER/Linda Hunt;
+ORG/paramore;LOC/Poland;
+PER/Vince Young;
+
+
+
+
+PER/Johnny Rockets;ORG/UTC;
+PER/Oscar Goldman;PER/Steve French;
+
+
+
+PER/D. Gratton;
+
+PER/James Toney;
+
+
+
+MISC/Davos;
+PER/Dr. Patsi Krakoff;
+
+PER/Dwight Howard;
+
+PER/Benedict XVI;
+
+PER/Miley Cyrus;
+PER/Brett Favre;
+PER/Antoine Dodson;
+PER/Jennifer Grey;
+PER/ALLISON;PER/LAUREN;LOC/CHICAGO;
+PER/Rebecca Leighton;
+LOC/Hawai;
+LOC/CONNECTICUT;
+MISC/Australia Day;LOC/the Hills;
+
+PER/O Cuiv;PER/Carey;PER/Brian Cowen;
+
+
+
+
+
+
+
+PER/Linda Hunt;
+ORG/falcon;
+
+PER/David Bowie;
+MISC/Valley Girl;PER/Nic Cage;PER/Deborah Foreman;
+PER/Stephanie Miller;
+ORG/Microsoft;
+
+PER/Lance Gross;PER/Boris Kodjoe;
+ORG/Global Ind;
+PER/Paul McCartney;LOC/appollo;
+PER/Sheldon;PER/Jim Parsons;
+
+
+PER/Chuck Norris;
+PER/Katy Perry;
+PER/lady gaga;
+PER/Ferry Corsten;PER/Corsten;
+PER/Kenny Rogers;
+ORG/Huey Lewis & the News;
+PER/Angie Stone;
+PER/Van Hunt;
+PER/Charlene-Anthony Hamilton;
+PER/Corinne Bailey Rae;
+PER/Dudley Perkins-Flowers;
+PER/Jill Scott;
+PER/Lauryn Hill;
+PER/Maxwell;
+PER/Raphael Saadiq;
+PER/Remy Shand;
+PER/Vivian Green;
+PER/Hillary Clinton;
+PER/Jefferson Feed;
+PER/Thomas Edison;
+MISC/All about the Benjamins;PER/Ice Cube;
+ORG/He Is We;
+PER/Roy Ayers;
+PER/Michael Jackson;
+PER/Donnell;
+
+PER/Barry White;
+PER/Frank Sinatra;
+PER/Claudette Ortiz;
+PER/Peaches;
+PER/John Lennon;
+PER/Isaac Hayes;
+PER/Isaac Hayes;
+PER/Jay-Z;
+PER/Gucci Mane;
+PER/John Lennon;
+
+PER/Jann Arden;
+PER/Rick Astley;
+PER/Phil Collins;
+PER/Phil Collins;
+PER/Phil Collins;
+PER/Brian Adams;
+PER/Michael Jackson;
+PER/Michael Jackson;
+PER/Phil Collins;
+PER/Phil Collins;
+PER/Yvonne Chaka Chaka;
+MISC/married with children;PER/tom brady;MISC/snl;
+PER/Cee-Lo;
+PER/Katy Perry;
+ORG/Culture Club;
+PER/Sara Bareilles;
+PER/Nicki Minaj;
+PER/jason mraz;
+PER/Carrie Underwood;
+PER/Bj Raji;
+
+
+PER/kanye west;PER/lady gaga;PER/Kurt Cobain;
+PER/Oscar Wilde;
+PER/Taylor Swift;
+PER/Jennifer Grey;
+
+
+PER/Doogie Howser;
+
+
+
+PER/Hitler;
+PER/Cliff Lee;
+PER/Emily Dickinson;
+
+PER/Sarah Palin;PER/Michelle Obama;
+PER/Michelle Bachman;
+PER/Cheryl Cole;PER/Cowell;PER/Wagner;
+PER/Michele Bachmann;
+PER/Gary Mckinnon;
+LOC/US;PER/Mr Clegg;
+PER/Brian_Howes;PER/Brian Howes;LOC/U.S;
+
+ORG/GOP;PER/Bob Inglis;
+PER/Mitch McConnell;
+PER/Mark Zuckerberg;
+PER/Jim Bunning;PER/Obama;PER/Berwick;
+PER/Rosalind Franklin;
+PER/Joe Biden;PER/Sarah Palin;PER/Obama;PER/Joe Biden;
+ORG/Wikileaks;PER/Julian Assange;
+PER/Anni Dewani;LOC/Cape Town;
+ORG/Labour;PER/Eric Joyce;LOC/Grangemouth;
+PER/Larry King;
+PER/Murkowski;LOC/Alaska;PER/Lisa Murkowski;LOC/Alaska;
+
+PER/Anne Hathaway;PER/Jake Gyllenhal;PER/Anne;PER/Jake;
+PER/Anne Frank;
+PER/Oscar Wilde;
+PER/Karl Lagerfeld;
+PER/Frank A Clark;
+PER/Jack Dixon;
+PER/John Churton Collins;
+PER/Victor Borge;
+PER/Albert Einstein;
+PER/Irwin Federman;
+PER/Irwin Federman;
+PER/Michael Jordan;
+PER/Henry Wadsworth Longfellow;
+PER/Mark Twain;
+MISC/Asian;LOC/Oye's Restaurant and Bar;
+
+
+
+
+
+LOC/WOODS RD;
+MISC/British;PER/Chris Davies;ORG/1st Battalion Irish Guards;
+
+
+
+PER/Damien Guillon;PER/Dorothee Mields;
+
+PER/Tony Gonzalez;
+
+ORG/freelondon;
+LOC/Mandalay;LOC/Myanmar;
+
+ORG/Pirelli;PER/Karl Lagerfeld;
+
+
+PER/SEAN FALYON;
+
+PER/John Lennon;
+
+
+PER/Jan Von Holleben;
+ORG/twitter;
+PER/William A Ward;
+PER/Eddie Guerrero;PER/Guerrero;
+LOC/Great Lakes;LOC/Expo Center;
+PER/Usher;PER/Usher;
+PER/Kevin Muscat;
+
+PER/Russell Crowe;
+ORG/Google;ORG/Bing;
+LOC/Jeddah;
+MISC/A Charlie Brown Christmas;
+MISC/Grey Gardens;PER/Eva Mulvad;MISC/Good Life;
+
+LOC/Washington DC;LOC/Reagan National Airport , VA;
+PER/Graeme Taylor;
+MISC/Jersey Shore;PER/Mark Sanford;
+PER/Juvenal Roman;
+PER/Juvenal Roman;
+PER/Juvenal Roman;
+PER/Juvenal Roman;
+PER/John F. Kennedy;
+PER/John F. Kennedy;
+PER/paul weller;LOC/brum;
+PER/Charles Darwin;
+PER/Henry Ford;
+PER/Vybz Kartel;
+PER/Ken Wisdom;
+
+LOC/Quincy;LOC/Palmyra;LOC/Hannibal;
+PER/Dan Rather;
+
+
+
+PER/David Caruso;MISC/Rambo;
+PER/Cynthia Rowley;
+PER/Aaron Rodgers;PER/Aaron Rodgers;
+PER/Aaron Rodgers;PER/Cutler;PER/Collins;
+PER/Aaron Rogers;
+MISC/The Last Song;
+PER/Russell Crowe;
+LOC/United States;
+MISC/Ace Ventura Pet Detective;
+
+PER/Leonard Cohen;
+
+PER/Adam Sandler;
+
+
+PER/Adolfo Castelo;MISC/GRAFONAUTA;
+LOC/United States;
+PER/Cilla Black;
+
+
+PER/Peter Weir;
+PER/Mandela;
+PER/Tracy Morgan;
+PER/Allison Dubois;MISC/RHOBH;
+PER/Kid Rock;
+PER/Christina Aguilera;
+LOC/Dallas;MISC/the Super Bowl;ORG/Cowboys;
+ORG/AJC;ORG/Clayton State;
+ORG/AJC;LOC/East Cobb;
+ORG/AJC;
+ORG/AJC;LOC/Kennesaw;
+ORG/AJC;LOC/DeKalb;
+PER/Al Habsi;
+PER/Alexis Cares;
+PER/Alicia Keys;PER/Swizz Beatz;
+
+PER/Eugene Ware;
+PER/Charles Schulz;
+ORG/YouTube;
+PER/D-Rose;
+PER/Aloe Blacc;
+
+
+ORG/David Guerra Architecture;
+ORG/Amazon;ORG/Sister Hazel;
+ORG/DEG;
+LOC/Clemson , SC;ORG/Honda;
+ORG/AMOC;ORG/Aston Martin;
+PER/Amy Winehouse;LOC/Brazil;PER/Amy Winehouse;LOC/Brazil;
+PER/Chris Brown;
+
+LOC/madagascar;
+PER/Ellen;LOC/Hawaii;
+PER/dave berry;PER/jack davies;LOC/wolvo;LOC/high wycombe;
+MISC/Super Bowl;
+PER/Haney;ORG/Bears;PER/Aaron Rodgers;ORG/Packers;MISC/Superbowl;
+PER/Andre Johnson;
+PER/Andy Cohen;PER/Andy;
+PER/Ang Lee;PER/John Woo;PER/Lee;
+
+
+PER/Joan Jett;
+PER/Erica Jong;
+PER/Michael Bloomberg;
+
+PER/Henry Ford;
+
+
+
+PER/Yo Gotti;
+
+LOC/Arizona;
+LOC/Arizona;
+PER/ARMAND VAN HELDEN;
+ORG/Twitter;ORG/Myspace;
+
+LOC/wales;PER/gary speed;
+PER/Kate;
+
+
+
+PER/Erik Hayden;
+ORG/Atl Business Chronicle;PER/Neenah Paper;
+LOC/Atlanta;
+
+PER/Auburn;PER/Julio Jones;
+PER/Aung San Suu Kyi;
+PER/Aung San Suu Kyi;MISC/Nobel Peace Prize;
+PER/Aung San Suu Kyi;MISC/Nobel Peace Prize;
+PER/Sandy;
+LOC/Austin;
+
+
+
+PER/Bruno Mars;
+PER/Bill Wright;MISC/Baby Face Nelson;
+PER/Paul McCartney;
+
+PER/Obama;
+
+ORG/Falcons;PER/Josh Freeman;
+
+
+ORG/The Flaming Lips;
+ORG/Bears;ORG/Packers;
+
+LOC/Bangkok;LOC/Thailand;
+LOC/Bar Reis;
+PER/Barbara Hulanicki;
+
+PER/Bart Scott;PER/Big Ben;
+MISC/Battlestar Galactica;
+PER/Paulo Coelho;
+PER/Paulo Coelho;
+PER/Oscar Wilde;
+ORG/BEADY EYE;
+ORG/BEADY EYE;LOC/MANCHESTER APOLLO;
+ORG/Beatles;PER/John Lennon;
+ORG/Meadowlawn Golf Club;
+
+
+MISC/Monsters Inc.;MISC/Buck Rogers;PER/Gil Gerard;PER/Buck;
+PER/Tim Ferriss;
+PER/Tony Robbins;
+PER/William James;
+PER/Ben Affleck;
+PER/Ben Rothlisberger;ORG/Jets;
+ORG/Bertuccis;
+PER/Erik Hayden;
+PER/noahgraham;
+PER/Khali;
+ORG/Pats;ORG/Colts;PER/Peyton;PER/Brady;ORG/Pats;
+PER/JOHN ABRAHAM;
+PER/Claire Denis;MISC/Made in Dagenham;ORG/indieWIRE;
+PER/Bill blair;
+PER/Bill Cosby;
+PER/Bill Cowher;PER/Coughlin;LOC/NY;
+PER/Bill Maher;
+PER/Bill Nye;MISC/2010 Humanist of the year;
+PER/Billie Holiday;
+PER/Bing Crosby;
+MISC/Black Swan;PER/Natalie Portman;LOC/UK;
+ORG/BMW;
+PER/Bob Marley;ORG/MSN;
+PER/Bobby Heenan;PER/Harley Race;
+
+LOC/u.s.a.;
+PER/Kid Rock;
+ORG/Boston Celtics;MISC/Nba;
+PER/Bow Wow;
+
+PER/Brandon Flowers;
+PER/Brandon Jacobs;
+
+PER/Nancy Pelosi;ORG/Democrats;
+PER/Brett Favre;
+PER/Brett Favre;ORG/Lions;
+PER/Brian Eno;PER/Brian Eno;
+PER/Brian Pumper;
+PER/Leon Powe;ORG/the Celtics;
+
+PER/Greg Inglis;
+ORG/Leggo;PER/Michael Johnson;
+PER/Noel Gallagher;
+PER/Polamula;PER/Hines ward;
+ORG/Packers;MISC/superbowl;ORG/Jets;
+PER/Brandon Jacobs;PER/Charles Woodson;
+ORG/the steelers;MISC/super bowl;
+
+LOC/El Toreador Restaurant;
+
+ORG/Steelers;MISC/super bowl;
+ORG/Cabinet Office;PER/Nick Clegg;
+PER/Saddam Hussein;
+PER/Caleb Hanie;LOC/Forney;LOC/Chicago;
+PER/Caleb Hanie;PER/Jay Cutler;
+LOC/Cali;
+LOC/California;LOC/Delta-Mendota canal;LOC/Patterson;
+PER/Cam Newton;PER/Auburn;
+PER/Cam Newton;ORG/the Bengals;
+PER/Adrian Chiles;
+PER/Richard Bach;
+
+ORG/Bears;
+PER/brandon flowers;
+
+
+PER/Carly Simon;
+PER/Carly Simon;
+LOC/Casa Corazon;
+
+PER/Catherine Zeta-Jones;
+PER/Chace Crawford;
+PER/Denis Waitley;
+PER/John D. Rockefeller;
+PER/Charles Woodson;LOC/Michigan;
+PER/Charlie Murphhyyyy;
+
+PER/Sananda Maitreya;
+ORG/Timex;ORG/Timex;
+
+
+
+PER/Holly;
+PER/SANANDA MAITREYA;
+PER/Aretha Franklin;
+ORG/Black Eyed Peas;
+
+
+ORG/Chicago Bears;
+LOC/Chicago;
+PER/Dean Martin;
+ORG/Joe Lean & The Jing Jang Jong;
+PER/Cheng Jianping;
+PER/Chris Brown;PER/Bow Wow;
+PER/Chris Brown;
+PER/CHRIST BLINK;
+PER/Christopher Hitchens;PER/Mother Teresa;
+PER/Christopher Hitchens;PER/Tony Blair;PER/Tony;
+PER/Christopher Hitchens;PER/Tony Blair;PER/Tony;
+PER/Christopher Hitchens;PER/Tony Blair;PER/Tony;
+PER/Christopher Hitchens;
+PER/Christopher Walken;
+ORG/Chuck Brown & The Soul Searchers;
+ORG/Bears;ORG/Packers;
+
+
+
+
+ORG/Wikileaks;PER/Julian Assange;
+
+
+PER/Henry Ford;
+MISC/SUPERBOWL;
+ORG/SI sports;PER/Drew Brees;
+PER/Elton John;PER/David Furnish;
+
+PER/Giffords;LOC/Texas;
+PER/Connolly;PER/Connolly;PER/DeSean Jackson;
+
+PER/Oscar Wilde;
+PER/Bernard Berenson;
+PER/Manuel de la Torre;
+
+
+
+MISC/Coronation Street;PER/Jenny McAlpine;
+PER/Glenn Beck;
+
+
+ORG/Crystal Castles;PER/Jimmy Kimmel;
+
+
+PER/Stephen Hawking;
+PER/Curtis Mayfield;
+ORG/BluEyes One;PER/Diego Redd;PER/ClintonPlace;
+ORG/BluEyes One;PER/Diego Redd;PER/ClintonPlace;
+
+PER/Cutler;LOC/Chicago;
+
+PER/R. Kelly;
+PER/Daigo Saito;
+ORG/Rolls Royce;
+
+
+PER/Barack obama;
+MISC/Dateline NBC;PER/William;PER/Kate;
+PER/David Hasselhoof;
+PER/David Hasselhoof;
+PER/David Suzuki;
+LOC/Davos;ORG/Bloomberg;
+
+PER/Dean Radin;
+PER/Thomas Paine;
+
+MISC/Super bowl;
+
+PER/SHEMAR MOORE;
+ORG/Department of Homeland Security;
+MISC/Desperate Housewives;PER/Rochelle Aytes;PER/Keith;
+ORG/Destiny 's Child;
+PER/DiCaprio;PER/Putin;ORG/NZ Herald News;
+PER/Dick Butkus;PER/Bart Starr;
+
+PER/Jake Gyllenhall;PER/Jimmy Fallon;
+LOC/Nepal;LOC/KATHMANDU;LOC/Nepal;
+PER/Allison Dubois;MISC/RHOBH;
+ORG/Diddy-Dirty Money;MISC/Paris Fashion Week;ORG/Diddy-Dirty Money;LOC/Paris;
+
+
+PER/Dimitar Berbatov;ORG/Premier League;ORG/Manchester Un;
+ORG/Direct Action;ORG/Twitter;ORG/Brighton Uncut;
+PER/William S. Burroughs;PER/William S. Burroughs;
+
+PER/Lady Gaya;
+PER/Heather Mills;MISC/Happy Foot;
+PER/Sam Shields;
+PER/Ralph Waldo Emerson;
+
+PER/Hank Scorpio;
+PER/Norman;PER/Norman;
+
+
+
+
+PER/Leslie Nielsen;
+PER/Wayne Dyer;
+LOC/Han River;
+
+ORG/Packers;
+PER/John Lennon;PER/Barbara;
+PER/Greg Behrendt;PER/Liz Tucillo;
+PER/Jim Rohn;
+PER/Woody Allen;
+LOC/Green Bay;
+PER/Nicki Minaj;
+ORG/ITV1;LOC/London;
+
+
+PER/Albert Camu;
+PER/Napoleon Hill;
+LOC/Chicago;
+PER/F. Scott Fitzgerald;
+PER/Donald Trump;
+PER/Donald Trump;PER/Sarah Palin;
+PER/Keith Olbermann;PER/Jeff Zucker;
+PER/Montana voice;
+PER/Henry Killinger;
+
+
+
+PER/Bruno Mars;
+
+PER/Ed O'Neill;PER/Kanye;PER/Jane Lynch;
+PER/Napoleon Hill;
+PER/Mandela;PER/jakson;
+PER/Stephen Covey;
+ORG/Twitter;
+
+
+PER/ELEANOR SMEAL;
+PER/Elizabeth Edwards;
+PER/Elton John;
+PER/Elvis Costello;MISC/The Impostors;LOC/Brasil;
+ORG/Emirates;PER/Clark;ORG/R-R;
+PER/Emma Watson;MISC/Harry Potter;
+PER/Emma Watson;MISC/Harry Potter;
+PER/Larry King;
+PER/Eric Church;
+PER/Ernie Hines;
+LOC/UK;
+PER/George Vlosich III;
+LOC/Nederland;
+ORG/Jets;PER/Sanchez;PER/Brady;PER/Manning;PER/Big Ben;
+
+PER/Napoleon Hill;
+PER/Napoleon Hill;
+
+PER/Napoleon Hill;
+PER/Donald Trump;
+LOC/AZ;ORG/the Steelers;MISC/Super Bowl XLIII;
+PER/John Barth;
+PER/Leo Tolstoy;
+PER/Alan Cohen;
+LOC/Miami;ORG/Hurricanes;ORG/Green Bay;PER/Sam Shields;ORG/Packers;
+PER/Micheal Turner;
+PER/Henry Ford;
+
+
+ORG/Facebook;
+ORG/Facebook;ORG/Twitter;
+PER/Chevy Chase;PER/Steely Dan;
+PER/George Brett;ORG/the Royals;MISC/Pine Tar Game;
+PER/William Moulton Marston;
+PER/Lisa Kudrow;PER/Roz;MISC/Frasier;PER/Peri Gilpin;
+PER/Louis Armstrong;
+PER/Orson Welles;MISC/Transformers : The Movie;
+PER/Paul McCartney;ORG/the Beatles;PER/Ringo;
+PER/Jesus Christ;
+PER/Richard Horton;
+PER/Brandon Roy;
+PER/Felix da Housecat;
+PER/Tiger Woods;
+MISC/Sundays at Tiffanys;PER/James Patterson;
+PER/Richard Gere;
+MISC/Super Bowl;ORG/Packers;ORG/Stillers;
+PER/Charlize Theron;
+ORG/House Republicans;PER/John Boehner;
+
+
+PER/Fonda Rae;
+ORG/Belgian First Division;ORG/Genk;ORG/Racing Genk;
+PER/Tony Robbins;
+PER/Tony Robbins;
+
+MISC/the NFC Championship;PER/BJ Raji;
+MISC/Oscar;
+PER/Jim Rohn;
+PER/Jim Rohn;
+PER/Dwayne Johnson;MISC/Fast and the Furious;MISC/Fast Five;
+ORG/OWC;
+PER/Fran Fine;
+PER/frank turner;ORG/birmingham;
+ORG/Marie Claire;
+
+MISC/Super Bowl;LOC/The Golf Cave;
+PER/Sorkozy;
+
+PER/Samuel Butler;
+LOC/NYC;
+MISC/AvWeek Intelligence Network;
+MISC/Tim & Eric Awesome Show;
+
+PER/Soulja boy;
+
+PER/Julia Durly;
+ORG/GA;ORG/NC;ORG/SC;ORG/CO;
+PER/Garnet Mimms;
+ORG/Gas Station Angel;ORG/GSA;
+PER/Thomas Edison;
+PER/George Bush;
+PER/George Bush;
+PER/George Michael;
+LOC/Georgia;
+PER/Geraldine Hoff Doyle;PER/Doyle;
+PER/BETTY WRIGHT;
+
+PER/Gillian Anderson;ORG/Telegraph;
+PER/Girl Talk;PER/Girl Talk;
+
+PER/Michelle Obama;
+PER/Jim Rohn;
+PER/Martin Freeman;
+PER/Glenn Beck;PER/Hitch;
+LOC/Brooklyn;PER/Jay-Z;
+PER/Henry David Thoreau;
+PER/Aretha Franklin;
+PER/Noah;PER/John Shimkus;
+
+ORG/Godiva;
+
+PER/HARRY;
+
+ORG/mexican league;
+
+PER/Gratton;
+PER/Gratton;
+PER/Gratton;
+PER/Gratton;
+PER/Gratton;
+PER/Gratton;
+ORG/ManU;ORG/Bir;ORG/the gunners;ORG/liverpool;
+
+
+ORG/GOP;PER/Obama;ORG/Republicans;
+
+PER/Caleb Haine;PER/Jay Cutler;
+PER/Grant Bradley;ORG/NZ Herald News;
+ORG/ESPN;
+LOC/Green bay;MISC/Superbowl;
+ORG/Green Day;MISC/Reading Festival;
+
+
+
+
+PER/Kanye West;
+PER/noel gallagher;
+PER/Fergie;ORG/BEP;
+PER/Will Smith;MISC/the Matrix;MISC/Wild Wild West;
+ORG/the Bears;MISC/NFC championship;
+
+
+PER/Ginuwine;
+
+ORG/the jets;
+
+
+
+
+LOC/minnesota;MISC/american idol;
+
+
+PER/Mike Vick;
+
+
+MISC/Half-Life;
+PER/David Hasselhoff;
+
+PER/Hanie;LOC/Chi Town;
+PER/Hanie;PER/Tom Brady;PER/Bledsoe;
+PER/Hanie;PER/Knox;PER/Chester;
+PER/Dale Carnegie;
+PER/ELLIE;LOC/LIVEERPOOL;
+
+PER/Harry Potter;PER/Voldemort;
+PER/harry;PER/matt;MISC/x factor;
+PER/harry;
+
+PER/Akon;
+
+PER/Juicy J;
+PER/Jeremy Irons;MISC/SVU;
+
+LOC/US;
+ORG/Hershey;
+PER/Chris Bosh;LOC/Georgia Tech;
+PER/Heinz Ward;
+
+PER/David Copperfield;
+MISC/Henry 's Crime;ORG/Moving Pictures Film & TV;PER/Malcolm Venville;PER/Henry;
+MISC/Montreal Gazette;
+ORG/Facebook;
+PER/Lamar;
+
+
+
+
+PER/Mike Rankin;PER/Natalie Nicole Robles;
+ORG/Hotnas Brothers;ORG/Taylor Pork;
+
+
+
+MISC/HGTV Dream Home 2011 Giveaway;
+
+PER/Hiedi Jones;
+ORG/Green Bay;
+
+MISC/High Stakes Poker;ORG/GSN;ORG/Poker News Daily;
+
+PER/Hilary Duff;LOC/England;
+PER/Kareem Amer;
+PER/JONATHAN BROOKINS;
+PER/charles;PER/diana;LOC/brunei;
+PER/michael jackson;
+ORG/TLC;PER/Sarah Palin;
+PER/Sanchez;
+PER/Wiz;
+MISC/the Steve Wilkos show;
+ORG/FDC;
+PER/Sloan;LOC/Collins;
+PER/Danielle Staub;MISC/RHONJ;
+
+PER/George Elliston;
+MISC/Power of Few;PER/Christian Slater;
+PER/David Booth;
+PER/Dylan Ratigan;ORG/MSNBC;
+ORG/the Bears;ORG/the Lions;
+
+LOC/CHICAGO;
+
+PER/James McWilliams;ORG/The Atlantic;MISC/Cheese Lobbying Story;
+PER/Paulo Coelho;
+
+PER/Dwyane Wade;PER/Dwyane Wade;
+
+
+
+LOC/CHICAGO;ORG/Starbucks;
+
+
+
+
+
+
+
+
+
+
+
+PER/Jay-Z;
+LOC/United States;LOC/U.s.;
+
+
+
+
+
+
+
+ORG/myspace;
+
+
+PER/Carlos Xuma;
+PER/Bob Marley;
+PER/peter kay;LOC/blackpool;
+
+PER/noel gallagher;
+PER/Bob Marley;
+PER/Hu;PER/Obama;PER/Andy Borowitz;LOC/White House;
+LOC/Amber Buffet & Hibachi;
+
+PER/RODDY WHITE;
+
+PER/Reggie Bush;ORG/the Falcons;
+
+
+PER/mustafa shakur;
+MISC/Java;
+ORG/Tumblr;
+
+PER/britney spears;
+PER/Howard Jones;MISC/Music Choice channel;
+MISC/chicago;
+PER/Brett Favre;PER/Caleb Hanie;
+PER/OBAMA;ORG/Hotnas Brothers;
+
+PER/lyannette;
+PER/Desmond Elliot;PER/Ini Edo;
+PER/Brad Maynard;
+PER/Nicki Minaj;
+PER/Rhianna;PER/Drake;
+PER/Caleb Hanie;
+
+ORG/YouTube;
+ORG/YouTube;
+ORG/YouTube;
+ORG/YouTube;
+PER/Schroder;
+PER/Nicki Minaj;PER/Santa;
+LOC/Asylum;LOC/Asylum;
+
+ORG/YouTube;ORG/DJ Mitsu the Beats;PER/Jos;PER/James;
+PER/Heidi Montag;
+PER/Jacqueline Bisset;
+PER/Jacqueline Bisset;
+ORG/YouTube;PER/Justin bieber;
+
+
+
+ORG/Amazon;
+PER/Thomas A. Edison;
+
+ORG/Packers;PER/Favre;
+
+LOC/Spoerer;
+ORG/Jets;ORG/NFL;
+PER/Christian D.;LOC/Target;
+LOC/Atlanta;
+PER/Justin;
+PER/Justin;
+PER/Justin Bieber;PER/Bieber;LOC/Paris;
+LOC/The Bahamas;
+PER/Justin Bieber;
+LOC/Atlanta;
+PER/justin bieber;
+PER/Justin;
+PER/Justin;
+PER/Justin Bieber;PER/Taylor Lautner;
+PER/JUSTIN BIEBER;
+
+PER/Rayray;
+PER/justin;
+PER/Justin;
+PER/Justin;
+PER/JUSTIN BI;
+PER/JUSTIN BIEBER;PER/JUSTIN;
+
+
+
+PER/Zanessa;
+
+ORG/PACKERS;
+MISC/Gulliver 's Travels;PER/Jack Black;
+PER/JESSE GREEN;
+
+PER/George Clooney;
+PER/Brandon Flowers;
+PER/Chris Ciffatti;
+PER/Jamie;PER/Ramsey;PER/Jamie Oliver;
+PER/Noel Coward;
+PER/Charlie Murphy;
+
+ORG/YouTube;
+ORG/YouTube;ORG/Combichrist;
+ORG/YouTube;
+ORG/YouTube;PER/Eminem;PER/Rihanna;
+ORG/YouTube;ORG/Metallica;
+ORG/YouTube;
+PER/Amber Rose;
+PER/Blair;
+LOC/Harbour Bridge;LOC/The Opera House;
+PER/don;PER/edward cullen;
+PER/Patti LaBelle;
+PER/Sally jessy Raphael;ORG/NBC;ORG/universal;
+
+PER/Chelsea Lately;
+
+PER/JUELZ SANTANA;LOC/CLUB ROUGE;
+PER/Kim;PER/Kourtney;LOC/New York;
+LOC/Delux;LOC/Ossington;
+PER/Melina Kanakaredes;LOC/NY;PER/Sela Ward;
+PER/Norman Wisdom;
+
+PER/Phillip;PER/Chloe;PER/melanie;PER/Nathan;PER/Stephanie;PER/daniel;
+
+LOC/Utah;
+ORG/Facebook;
+ORG/Facebook;
+ORG/Blackpool;ORG/Wolves;PER/Jody Craddock;ORG/Wolves;
+PER/Oscar Wilde;
+PER/Edward Appleton;
+PER/Rihanna;
+ORG/the Bengals;PER/Jesus;ORG/Falcons;
+PER/Dorothy Day;
+
+PER/Harbaugh;PER/Mike Tomlin;
+PER/cory monteith;
+ORG/YouTube;
+ORG/YouTube;
+PER/Kevin Hart;
+PER/Charlie Rangel;
+PER/Rita Rudner;
+PER/Chad Johnson;
+LOC/America;PER/Stan Marsh;
+
+PER/George St Pierre;
+PER/Kristen;PER/rihanna;PER/Anne hathaway;
+ORG/YouTube;
+PER/Stanley Tucci;
+PER/Steve Nash;LOC/Phoenix;MISC/2011 NBA All-Star Game;
+
+PER/Susan Boyle;
+
+ORG/Twitter;PER/Jay Cutler;
+ORG/NFC;ORG/the Steelers;ORG/the Jets;PER/Sanchez;ORG/Pittsburgh;
+
+
+PER/Mead;
+PER/Olivia Munn;
+PER/Joni Mitchell;
+ORG/Steelers;MISC/Super Bowl;
+LOC/England;LOC/Japan;
+PER/noel gallagher;
+LOC/new York;
+LOC/Shinagawa;
+LOC/Escazu;LOC/Escazu;
+LOC/Yatenga;LOC/New York;
+PER/Dwight Schrute;
+LOC/North Koreas;PER/Miley Cyrus;
+PER/Julie Bowen;
+
+PER/Vincent;
+PER/Noel Gallagher;
+PER/Smash Mouth;
+PER/Kim Mitchell;
+PER/FatMan Scoop;PER/Faith Evans;
+PER/John Lennon;PER/Yoko Ono;
+PER/Rihanna;
+PER/Gil Scott-Heron;
+PER/Phil Collins;
+PER/Cory Lee;
+PER/Kid Cudi;PER/David Guetta;
+ORG/Culture Beat;
+MISC/Requiem For A Dream;PER/Paul Oakenfold;
+PER/Eminem;PER/Nicki Minaj;
+PER/Eminem;PER/Nicki Minaj;
+PER/Rihanna;PER/Lady Gaga;
+PER/Haddaway;
+PER/Britney Spears;PER/Lily Allen;
+PER/Bob Sinclar;
+
+MISC/the grammys;
+
+
+
+
+LOC/Residence Inn-North;LOC/Stone Oak;
+PER/Bobby Flay;MISC/Thanksgiving Throwdown;
+ORG/LG;
+
+PER/Ian S.;PER/feerschneider;
+
+ORG/YouTube;PER/Ron;PER/Hermione;
+
+PER/Kevin Hart;
+LOC/pittsburgh;ORG/steelers;
+PER/Sara Underwood;
+ORG/the Bears;
+PER/Thomas Henry Huxley;
+PER/edward;
+PER/Mel Brooks;
+
+PER/Ted Turner;
+PER/Ted Turner;
+
+PER/Kate Garraway;
+ORG/Sprint;ORG/ATT&T;
+ORG/the Bears;PER/Caleb Hanie;MISC/SuperBowl;
+ORG/the Bears;LOC/Chicago;PER/Hanie;
+MISC/Aaliyah;
+
+PER/Jim Belushi;PER/Jerry O'Connell;
+PER/Simon Baker;
+PER/Abigail Van Buren;
+PER/Steven Harper;PER/Bush;PER/Blair;
+PER/avril lavinge;
+PER/Dave Barry;
+PER/Dave Barry;
+PER/Dale Carnegie;
+
+PER/JUSTIN BIEBER;
+
+PER/Albert Einstein;
+
+PER/Venus;MISC/the Australian Open;
+ORG/Fox;ORG/NFL;
+PER/John Lilly;
+PER/Toni Braxton;
+LOC/India;LOC/India;
+ORG/Injinji;
+PER/Helge Schneider;
+
+ORG/WikiLeaks;PER/Julian Assange;
+PER/Rob Shields;PER/Rob Shields;
+PER/Nanice El-Gammal;LOC/Egypt;
+PER/Nick Williams;
+
+MISC/World Championship;
+MISC/the Battle of the Basement Bands;
+
+
+PER/Johann Wolfgang von Goethe;
+PER/Mark Watson;
+PER/Mark Watson;
+PER/Braylon Edwards;
+
+
+PER/Joe;PER/Jim Royle;
+PER/Tony McCarroll;
+PER/Isaac Hayes;
+PER/Isaac Newton;
+PER/Isabelle Huppert;PER/Claire Denis;
+PER/Francis Bacon;
+ORG/FB;PER/Donny;PER/David Cassidy;PER/MJ;
+PER/Alicia Keys;
+
+PER/W. Churchill;
+PER/Gertrude Stein;
+LOC/America;PER/Barack Obama;
+
+
+PER/Caleb Hanie;
+PER/Tony Blair;PER/Herman;ORG/twitter;
+ORG/NFL;ORG/NFL;
+PER/Napoleon Hill;
+PER/George Burns;
+LOC/UK;
+
+MISC/King of the Hill;PER/Willie Nelson;
+PER/Mike Tyson;PER/Jordan;PER/Chuck Norris;
+
+PER/Joni Mitchell;
+
+PER/Harry Hill;
+PER/Harry Hill;PER/Harry Hill;
+PER/Harry Hill;
+PER/Cutler;
+PER/Marc Anthony;ORG/Dolphins;
+LOC/Jville;
+ORG/packers;MISC/super bowl;
+PER/J Kidd;PER/T Parker;
+PER/J. Johnson;
+PER/Jacques le Glou;
+PER/Jake Cutler;
+PER/James Franco;
+PER/jay cutler;
+PER/Jay Cutler;LOC/chicago;PER/kanye;
+PER/JAY JUDY;
+PER/Jay Schafer;ORG/Tumbleweed Tiny Houses;ORG/Yahoo ! News;
+PER/Jeff Dye;
+PER/Jennifer Love Hewitt;
+PER/Jenny Eclair;
+
+PER/Jessica Simpson;MISC/Regis Kelly;
+PER/Jesus;
+PER/Jesus;
+ORG/JETS;
+ORG/jets;PER/LB calvin pace;
+PER/Jim Bell;LOC/Mars;
+PER/Jimmy Clausen;
+PER/amelia;PER/Haleyy;
+PER/Joanna Yeates;
+ORG/USC;
+PER/Joe Biden;PER/Larry King;PER/Hillary Clinton;
+PER/John A. Smolin;
+PER/John Key;
+PER/john larroquette;
+PER/John Lennon;
+PER/John Tyner;
+PER/Johnny Depp;
+PER/Johnny Depp;
+
+PER/Jordan;PER/D-wade;
+PER/Juan Silva Meza;ORG/SCJN;
+PER/Judith Herman;
+PER/Julia Durly;
+PER/Julian Assange;
+PER/Julius peppers;PER/Angela Simmons;
+PER/Mark Watson;
+
+
+
+
+PER/Carlos;
+
+
+ORG/Amazon;ORG/LG;ORG/LG;
+ORG/Amazon;ORG/Sony;
+PER/Grover Washington Jr.;
+PER/Scott;
+
+MISC/How Drugs Work;ORG/BBC;LOC/Bristol;LOC/Bristol;
+PER/Justin Bieber;LOC/England;
+PER/Justin Bieber;
+
+PER/Kanye West;PER/Beaver;
+PER/Karina Pasian;
+PER/Katy;LOC/the Gold Coast;
+PER/Katy Perry;
+
+PER/Keri Hilson;
+PER/Patti Smith;
+PER/Kim Jong-Il;
+PER/Ted Thompson;
+ORG/Jets;ORG/the Giants;ORG/GreenBay;ORG/the Jets;
+PER/kirsten dunst;
+PER/Kitaro;
+
+LOC/Asia;
+PER/Kourtney;PER/Kourtney;LOC/New York;PER/Kim;
+PER/LADY GAGA;
+PER/Larry Moore;
+LOC/Wolcott Rest Area;
+
+PER/Charlie Pace;
+PER/Stephen Covey;
+PER/Stephen Covey;
+PER/Norman Schwarzkopf;
+PER/Leah Marie Grimshaw;
+PER/leah remini;
+PER/Lee DeWyze;PER/Jim Cornelison;
+
+PER/Leonardo DaVinci;
+ORG/Les Anis de Flavigny;LOC/Vancouver;LOC/Bosa Foo;
+PER/Leslie Nielsen;
+
+
+PER/Charles R. Swindoll;
+PER/Marcus Tullius Cicero;
+PER/Paulo Coelho;
+
+
+PER/Tim Mcgraw;
+PER/Mia;
+
+ORG/TNT & Karess;ORG/Low The Legacy;
+PER/David Bowie;
+PER/David Essex;
+PER/Diana Ross;
+PER/Barbara Streisand;
+
+PER/Felice Taylor;
+PER/Lionel Richie;
+PER/Lionel Richie;
+
+ORG/The Black Keys;
+PER/Huey Lewis;
+PER/craig mack;
+PER/David Suzuki;
+PER/Patti Lacy;
+
+ORG/NHL;
+
+PER/Vanessa Carlton;
+PER/Bobby Boucher 'd;
+
+
+
+
+PER/Prince;
+
+PER/Kevin hart;
+
+LOC/Chicago;
+
+ORG/twitter;
+
+
+PER/Nicole Scherljfadhaohd;
+
+PER/Todd Collins;
+
+PER/Chris Bosh;
+PER/Peyton Manning;ORG/the Colts;
+PER/Lauryn Hill;PER/Lauryn Hill;
+
+
+PER/Clay Matthews;
+
+
+PER/Leanne Malcolm;LOC/Queenstown;MISC/tv3 news;
+
+
+MISC/Harry 's Law;PER/Kathy Bates;
+
+PER/Real Andrews;MISC/THE BAY;
+PER/christine lahti;
+PER/Adele Ashworth;
+PER/Paulo Coelho;
+PER/Jeff Bridges;PER/Jeff Bridges;MISC/2010 Oscars;
+PER/Matt Czuchry;PER/Alan Cumming;
+PER/Keith Urban;
+
+PER/frank turner;
+
+PER/Doloris Van Cartier;PER/Whoopi Goldberg;MISC/Sister Act 2;
+PER/Ian Brown;
+ORG/Fishing Tackle Supplies;
+PER/Phil Taylor;PER/Gary Mawson;
+LOC/Diamond Star of the East;LOC/Zanzibar;LOC/Luxury Diamonds Star of the East;LOC/Zanzibar;
+
+
+
+
+
+
+PER/Delonte West;
+
+PER/Samuel Beckett;
+LOC/la;LOC/cali;
+LOC/Manhattan;LOC/NYC Manhattan Apartment;LOC/Times Square;LOC/Theater District;MISC/Real Estate Rentals;
+PER/Drew Brees;
+PER/Marion Appel;
+PER/Mariska Hargitay;MISC/The Ellen Show;
+PER/Mark sanchez;PER/Joe mcknight;PER/clay Matthews;MISC/superbowl;
+PER/Mark Zuck;MISC/the Time Mag Person of the Year;
+PER/Martha Stewart;
+PER/Marvin Austin;
+PER/Marvin Gaye;
+PER/Mary Landrieu;
+PER/Matt Dodge;
+PER/Matt Flynn;
+PER/Thomas Edison;
+PER/Wallace;LOC/Alabama;
+PER/Heidi;PER/Ryan;
+ORG/The bears;
+PER/Mcgriddle;PER/Mickey Ds;
+PER/Diana Vreeland;
+
+PER/Noel Gallagher;
+PER/Keith Urban;
+PER/Lillian;
+
+
+PER/Mehcad Brooks;
+PER/Kanye West;PER/Kanye West;
+PER/Annie Lennox;
+
+ORG/Metallica;PER/Ozzy Osbourne;
+
+PER/Michael Bolton;
+PER/Michael Ealy;
+PER/Michael Jackson;LOC/Vegas;
+PER/Michael Jackson;
+PER/Michael Vick;
+PER/Michele Bachmann;
+PER/Michelle Obama;
+PER/MICHELLE OBAMA;
+PER/Mick Hucknall;
+PER/Miley Cyrus;LOC/Brazil;
+ORG/Journal of Public Health;PER/Amy Hagopian;
+
+ORG/Verizon;ORG/AT&T;
+
+
+
+
+PER/Dave Matthews;ORG/Death Cab;ORG/The Fray;
+
+PER/Jeffrey Goldberg;
+PER/Monica Bellucci;ORG/COED Magazine;
+PER/Morris Chestnut;
+
+ORG/msnbc tv;PER/Ted Sorensen;
+ORG/msnbc tv;PER/Bush;
+ORG/msnbc tv;PER/Bush;
+ORG/msnbc tv;PER/Karl Rove;
+ORG/msnbc tv;PER/Elizabeth Edwards;
+ORG/msnbc tv;PER/Leslie Nielsen;
+ORG/msnbc tv;PER/Rand Paul;
+MISC/NAMM;
+PER/Isaac Hayes;
+
+
+
+
+LOC/Germany;
+
+
+
+LOC/NBA store;
+
+
+PER/George;
+
+PER/Keyshia Cole;PER/Nicki Minaj;
+
+
+
+ORG/Packers;LOC/Dallas;
+ORG/Mew;ORG/The xx;ORG/Phoenix;
+ORG/Twitter;
+ORG/Myspace;ORG/myspace;
+PER/Nafizwan Adnan;PER/Alan Clyne;
+PER/Beady Eye;
+
+PER/Natalie Portman;
+ORG/Nature Sounds;
+
+PER/Pacquiao;
+PER/aaron rodgers;
+MISC/super bowl;
+PER/Trisha Erskine;
+PER/Paul Henry;ORG/NZ Herald News;
+PER/Anne Hathaway;
+ORG/Scribblers;
+PER/Snoop Dogg;PER/Cameron Diaz;PER/Snoop Dogg;
+ORG/Organix;
+
+ORG/Windows;
+PER/Joe Cocker;
+LOC/New york;
+PER/Eneramo;ORG/The Nation Newspaper;
+PER/Harry;
+ORG/NFL;ORG/NBA;
+MISC/NFL;ORG/The Peppers;
+
+PER/Nick Oliver;MISC/hunger strike;
+ORG/tumblr;
+PER/Nicki Minaj;PER/Marshall Bill;
+PER/Nicki Minaj;
+PER/Nicki Minaj;
+PER/Nicki Minaj;
+LOC/Nigeria;MISC/primary election;
+PER/Jeffrey Goldberg;
+ORG/Nike;
+PER/Nimrod Laments;
+ORG/Nissan;
+PER/Mike Pence;PER/Mitch McConnell;
+ORG/AJC;PER/Mark Richt;
+PER/Barack Obama;
+PER/Napoleon Hill;
+PER/Ralph Waldo Emerson;
+
+PER/Ryan Reynolds;
+
+
+PER/Eleanor Roosevelt;
+PER/Noel Gallagher;PER/Anais;
+
+
+PER/Ralph Waldo Emerson;
+PER/Ellen Glasgow;
+ORG/TSA;ORG/TSA;
+
+MISC/Housewives of Atlanta;
+PER/Palin;
+PER/Keith Olbermann;
+
+ORG/NOWNESS;
+
+LOC/UK;
+MISC/Keeping Up With The Kardashians;
+PER/Amber;
+PER/Chris Hanson;
+ORG/oasis;PER/Neil young;
+PER/Obama;ORG/CNN International;
+PER/Obama;PER/Bush;
+PER/Obama;
+PER/Bill Cowher;ORG/Steelers;
+PER/Cam Newton;
+MISC/muslims;
+ORG/Twitter;
+PER/Roddy White;
+PER/Homer Simpson;
+PER/Urban Meyer;
+PER/Joe Johnson;
+
+
+PER/Emmanuelle Chriqui;
+PER/Tom Brady;PER/Suh;
+ORG/AT&T;
+LOC/Wisconsin;
+
+PER/Michelle;
+
+PER/Paul McCartney;
+ORG/steelers;
+PER/Austin Collie;
+PER/Tony Romo;ORG/Cowgirls;
+PER/Aaron Rodgers;
+
+LOC/Chicago;
+MISC/The Sopranos;MISC/the Goodfellas;
+
+
+
+
+
+PER/George Harrison;PER/George;
+PER/Kevin hart;
+PER/Matt Ryan;PER/Manning;PER/Brady;
+PER/Aston;
+
+PER/Kimberly Locke;
+PER/Todd;PER/Mercedes;
+
+MISC/The WBAI Evening News;MISC/Counterspin;ORG/WBAI;
+ORG/Bloomberg;PER/Jay-Z;
+
+
+
+PER/David Allen;
+PER/Michelle Obama;PER/Oprah;
+PER/Michelle Obama;PER/Oprah;
+PER/Ivana Santilli;
+
+ORG/Valencia;ORG/Malaga;
+PER/Jay Cutler;ORG/NFC championship;
+
+MISC/Fresh Prince;PER/Tisha Campbell;
+
+
+
+PER/Thomas Edison;
+PER/Oprah;LOC/Sydney;
+PER/Oprah;LOC/Sydney;
+PER/Reagan;
+
+
+PER/Ralph Waldo Emerson;
+
+
+PER/Sharon;PER/Steve;
+PER/Elizabeth Edwards;
+LOC/New Bern;LOC/Craven County Regional Airport;
+LOC/Orange County Airport;
+ORG/packers;MISC/superbowl;PER/aaron rodgers;PER/brett favre;
+LOC/PARIS;ORG/Reuters;PER/Nicolas Sarkozy;
+
+PER/Patrick Jane;
+PER/Pau Gasol;PER/Ron Artest;ORG/Denver Nuggets;
+PER/Paul Haggis;
+PER/Paul McCartney;
+PER/Paul Simon;
+PER/Paul Simon;PER/Oprah;LOC/Uluru;
+PER/paul weller;
+PER/Penelope Cruz;
+MISC/Scarface;
+PER/Tim Ferriss;
+LOC/Old Trafford;MISC/WW2;
+PER/Napoleon Hill;
+PER/peter kay;
+PER/Mark Wahlberg;ORG/PGA;
+PER/phil taylor;
+PER/Philip Rivers;ORG/Twitter;PER/Jay Cutler;PER/Cutler;PER/Philip;
+PER/Phillip Noyce;MISC/Salt;
+PER/Cat Stevens;PER/Cat;PER/Steven;
+ORG/Andrew;
+
+
+PER/Jake;
+
+
+
+
+
+
+ORG/Newsweek;PER/Stephen Dorff;PER/Dave;
+
+
+PER/Paris Hilton;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MISC/PHP;
+
+
+LOC/Sri Lanka;LOC/Goa;
+MISC/the mercury prize;
+PER/Deborah Cox;
+PER/W. Churchill;
+LOC/Lagavulin;
+ORG/Playboy;PER/Hugh Hefner;
+
+
+
+
+
+
+
+
+PER/Paul Valery;
+LOC/Texas;
+PER/Chris;PER/Tommy;
+
+
+PER/Tiger Woods;PER/Tiger;
+MISC/Practical Magic;PER/Nicole Kidman;PER/Sandra Bullock;
+LOC/Guantanamo;
+PER/Diana Ross;
+
+
+
+PER/DeMaurice Smith;ORG/NFL;
+
+
+ORG/Qwiki;
+PER/R. Kelly;
+PER/Leslie Nielsen;
+PER/Ingrid Pitt;
+PER/Raj Patel;MISC/World Hunger Year Event;
+PER/joe montana;
+PER/George Bush;
+
+PER/Ray Davies;PER/Ray Davies;LOC/100 Club;
+
+
+
+
+
+PER/Cheryl Cole;ORG/Apple;PER/Cheryl Cole;
+ORG/Toyota;
+PER/Kevin Williamson;MISC/Vampire Diaries Companion Series;
+
+
+PER/Roddy White;
+PER/Debra Zimmer;
+PER/David Allen;
+PER/Dale Carnegie;
+PER/Pence;
+PER/Rebecca Okoro;
+
+
+PER/Reagan;
+MISC/Revenge Of The Bridesmaids;
+PER/Ralph Fiennes Kipling;
+PER/Rex Grossman;
+PER/Ricardo Lorenzetti;PER/N. Kirchner;
+PER/Rich Franklin;
+PER/Richard Branson;
+PER/Rick Ross;
+PER/Ricky Martin;
+
+PER/Brent Grimes;
+PER/Matt Cardle;
+
+PER/Leslie Nielsen;
+PER/Blake Edwards;
+PER/Elizabeth Edwards;
+PER/Freddie Mercury;
+PER/Leslie Nielsen;
+PER/Pete Postlethwaite;MISC/Inception;MISC/The Town;
+PER/Reuben Studdard;
+PER/Ron Santo;
+PER/Teena Marie;
+PER/Rob Thomas;
+PER/Robert De Niro;MISC/SNL;
+PER/Robert Downey Jr;
+PER/Roe;ORG/Roe Nurseries Landscaping Inc.;
+PER/Roman Polanski;MISC/European picture award;
+PER/Audrey;
+PER/Ron Marenelli;PER/Luke Skywalker;MISC/Return of the Jedi;
+PER/Ron Mueck;
+PER/Ron Paul;
+PER/Ronaldinho;ORG/Milan;
+PER/Roots Manuva;
+PER/Kate Middleton;PER/Valentino;
+PER/Leslie Nielsen;
+
+
+
+PER/Canard;
+
+PER/Noel Gallagher;PER/Miles Kane;
+PER/Naomi Campbell;
+
+PER/Merril Hodge;
+PER/Jay-Z;
+PER/Danon;
+
+
+
+
+LOC/Dunwoody Prep;LOC/Mt. Vernon;
+PER/Christina Applegate;
+MISC/the Graham Norton show;ORG/BBC1;ORG/bbc;
+MISC/Austin Powers;
+PER/Charles Woodson;
+PER/Sacha Goldberger;
+PER/Stephen Harper;
+
+
+PER/Sarah Palin;ORG/White House;PER/Obama;
+PER/Chris Brown;
+
+ORG/Absolute Classic Rock;PER/John Lennon;
+ORG/CBC;PER/don cherry;
+PER/James May;MISC/Top Gear;
+PER/Tom Brady;
+PER/DeSean Jackson;
+PER/Todd collins;
+ORG/NHL;PER/Ryan Miller;
+LOC/Las Vegas Strip;
+PER/Bob Bennett;
+PER/Mike Smith;PER/John Fox;
+PER/Ryan;
+PER/Ryan;
+ORG/Falcons;PER/Garrett Hartley;
+MISC/Chick-Fil-A Bowl Parade;LOC/Pine;ORG/RDA;PER/Ivan Allen;LOC/Peachtree;
+PER/Julian Assange;ORG/Time magazine;
+PER/Alicia Keys;
+PER/Elton John;
+PER/The Alan Titchmarsh show;
+
+PER/Patti Smith;MISC/National Book Award;
+PER/Sananda Maitreya;
+PER/Don Cherry;
+ORG/Apple;ORG/Verizon;PER/Gene Munster;
+PER/Ryan Reynolds;
+
+
+PER/Jeff Kennett;
+PER/John Lennon;PER/John;
+PER/Stan Rice;
+ORG/Congress;LOC/Penn State;PER/Joe Paterno;
+PER/Cortland Finnegan;
+PER/Bridget Riley;
+PER/Rumi;
+
+
+PER/Corey Peters;PER/Clausen;
+PER/Matt Ryan;
+PER/Curtis Lofton;
+PER/Bill Hicks;
+PER/Palin;ORG/WikiLeaks;PER/Sarah Palin;
+
+PER/DMX;
+PER/Julian Fantino;PER/Fantino;
+PER/Julian Fantino;PER/Omar;LOC/Guantanamo;
+
+
+PER/Elizabeth Edwards;
+PER/Julian Assange;
+ORG/Beatles;
+ORG/Beatles;ORG/The Beatles;
+ORG/Airbus;
+ORG/British Gas;
+PER/Obama;
+
+ORG/Pontin;
+PER/Lady Gaga;PER/Russell Howard;
+PER/Craddock;ORG/Wolverhampton Wanderers;PER/Jody Craddock;
+PER/Gerrard;ORG/Red;ORG/Liverpool;PER/Roy Hodgson;PER/Steven Gerrard;
+
+
+PER/Robert Daley;
+PER/Robert Daley;
+ORG/Airbus;
+ORG/Apec;
+
+
+PER/Christopher Hitchens;
+
+PER/David Cameron;LOC/Cornwall;
+PER/Suu Kyi;
+PER/Suu Kyi;
+PER/Haye;PER/Harrison;
+PER/Iain Duncan Smith;ORG/Office of National Statistics;
+
+
+
+
+
+
+ORG/Pontin;
+
+
+
+ORG/SNCF;
+
+
+PER/Pamela Anderson;MISC/Indian BB;MISC/Baywatch;PER/Pamela Anderson;MISC/Big Brother;
+
+
+
+
+
+
+
+
+PER/Hamilton;PER/Alonso;
+PER/Pacquiao;ORG/WBC;
+ORG/Tottenham;ORG/Blackburn;
+
+
+
+PER/Adams;
+ORG/Apec;
+ORG/British Gas;
+ORG/MI5;LOC/Guantanamo;PER/Binyam;
+ORG/Chelsea;PER/Wilkins;
+PER/De Niro;
+
+ORG/Rolls;
+PER/Berlanga;
+PER/Suu Kyi;
+ORG/French cabinet;
+
+PER/Haye;PER/Harrison;
+PER/Haye;
+PER/Haye;
+
+PER/Murray;PER/Monfils;
+
+ORG/APEC;
+
+PER/Pacquiao;MISC/WBC title;
+LOC/DR Congo;
+ORG/Pontin;
+
+
+ORG/SNCF;
+ORG/Manchester United;
+
+
+PER/Palin;
+PER/Beady Eye;LOC/UK;
+PER/Beady Eye;LOC/Casino de Paris;
+PER/Beady Eye;LOC/Brussels;
+LOC/Britain;PER/John Lennon;
+
+PER/Michael Jordan;
+PER/Hugh Hefner;
+
