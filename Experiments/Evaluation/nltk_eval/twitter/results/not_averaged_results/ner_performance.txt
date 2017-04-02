@@ -1,0 +1,9 @@
+#####Tokenization Results:#####
+Token Precision:  81.65%
+Token Recall:  90.70%
+Token F1 score:  85.93%
+
+#####Tagging Results:#####
+Tag Precision:  75.38%
+Tag Recall:  83.74%
+Tag F1 score:  79.34%
