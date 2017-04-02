@@ -1,0 +1,9 @@
+#####Tokenization Results:#####
+Average Token Precision:  95.49% +/- 10.14
+Average Token Recall:  96.92% +/- 8.99
+Average Token F1 score:  96.20% +/- 9.55
+
+#####Tagging Results:#####
+Average Tag Precision:  49.43% +/- 10.44
+Average Tag Recall:  50.19% +/- 10.29
+Average Tag F1 score:  49.81% +/- 10.34
