@@ -1,0 +1,10 @@
+There are 8 different tags in this dataset
+Tag-> B-LOC Counter->  11 ( 0.01 % )
+Tag-> B-MISC Counter->  37 ( 0.02 % )
+Tag-> B-ORG Counter->  24 ( 0.01 % )
+Tag-> I-LOC Counter->  8286 ( 4.07 % )
+Tag-> I-MISC Counter->  4556 ( 2.24 % )
+Tag-> I-ORG Counter->  10001 ( 4.91 % )
+Tag-> I-PER Counter->  11128 ( 5.47 % )
+Tag-> O Counter->  169578 ( 83.28 % )
+Total Tags: 203621 ( 100.00 %)

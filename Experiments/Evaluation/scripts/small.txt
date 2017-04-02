@@ -1,0 +1,11 @@
+Rockwell NNP B-NP I-NP
+International NNP I-NP I-NP
+Corp. NNP I-NP I-NP
+. . O O
+
+Rockwell NNP B-NP I-NP
+said VBD B-VP B-VP
+the DT B-NP B-NP
+agreement NN I-NP I-NP
+planes NNS I-NP I-NP
+. . O O

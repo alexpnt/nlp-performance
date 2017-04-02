@@ -1,0 +1,7 @@
+There are 5 different tags in this dataset
+Tag-> LOC Counter->  795 ( 1.53 % )
+Tag-> MISC Counter->  511 ( 0.98 % )
+Tag-> O Counter->  47015 ( 90.20 % )
+Tag-> ORG Counter->  842 ( 1.62 % )
+Tag-> PER Counter->  2961 ( 5.68 % )
+Total Tags: 52124 ( 100.00 %)

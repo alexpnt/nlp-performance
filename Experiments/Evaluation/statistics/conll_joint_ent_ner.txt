@@ -1,0 +1,4 @@
+There are 2 different tags in this dataset
+Tag-> ENT Counter->  34043 ( 16.72 % )
+Tag-> O Counter->  169578 ( 83.28 % )
+Total Tags: 203621 ( 100.00 %)
