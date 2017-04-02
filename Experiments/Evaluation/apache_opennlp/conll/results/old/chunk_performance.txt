@@ -1,0 +1,42 @@
+current: 248.8 sent/s avg: 248.8 sent/s total: 249 sent
+current: 615.6 sent/s avg: 431.8 sent/s total: 865 sent
+current: 100.0 sent/s avg: 291.2 sent/s total: 874 sent
+current: 370.4 sent/s avg: 310.9 sent/s total: 1244 sent
+current: 149.0 sent/s avg: 278.7 sent/s total: 1394 sent
+current: 72.1 sent/s avg: 244.3 sent/s total: 1466 sent
+current: 742.0 sent/s avg: 315.4 sent/s total: 2208 sent
+current: 740.0 sent/s avg: 368.5 sent/s total: 2948 sent
+current: 818.8 sent/s avg: 418.5 sent/s total: 3767 sent
+current: 757.0 sent/s avg: 452.4 sent/s total: 4524 sent
+current: 1219.0 sent/s avg: 522.0 sent/s total: 5743 sent
+current: 645.0 sent/s avg: 532.4 sent/s total: 6389 sent
+current: 860.9 sent/s avg: 557.6 sent/s total: 7249 sent
+current: 533.6 sent/s avg: 556.0 sent/s total: 7784 sent
+current: 845.2 sent/s avg: 575.3 sent/s total: 8631 sent
+current: 649.6 sent/s avg: 580.0 sent/s total: 9280 sent
+current: 659.0 sent/s avg: 584.7 sent/s total: 9940 sent
+current: 964.0 sent/s avg: 605.7 sent/s total: 10905 sent
+current: 596.6 sent/s avg: 605.3 sent/s total: 11501 sent
+current: 656.0 sent/s avg: 607.8 sent/s total: 12157 sent
+current: 779.0 sent/s avg: 616.0 sent/s total: 12936 sent
+current: 533.0 sent/s avg: 612.2 sent/s total: 13469 sent
+
+
+Average: 612.7 sent/s 
+Total: 14042 sent
+Runtime: 22.92s
+
+Evaluated 14041 samples with 99997 entities; found: 98017 entities; correct: 86972.
+       TOTAL: precision:   88.73%;  recall:   86.97%; F1:   87.84%.
+          PP: precision:   95.22%;  recall:   96.93%; F1:   96.07%. [target: 18843; tp: 18264; fp: 917]
+          VP: precision:   92.88%;  recall:   91.84%; F1:   92.36%. [target: 18047; tp: 16574; fp: 1270]
+          NP: precision:   86.21%;  recall:   84.42%; F1:   85.31%. [target: 57387; tp: 48446; fp: 7747]
+        ADVP: precision:   78.75%;  recall:   72.24%; F1:   75.36%. [target: 2637; tp: 1905; fp: 514]
+         PRT: precision:   84.86%;  recall:   59.58%; F1:   70.01%. [target: 527; tp: 314; fp:  56]
+        SBAR: precision:   85.06%;  recall:   58.31%; F1:   69.19%. [target: 1269; tp: 740; fp: 130]
+        ADJP: precision:   68.62%;  recall:   61.20%; F1:   64.70%. [target: 1165; tp: 713; fp: 326]
+       CONJP: precision:   81.82%;  recall:   29.03%; F1:   42.86%. [target:  31; tp:   9; fp:   2]
+        INTJ: precision:  100.00%;  recall:   11.86%; F1:   21.21%. [target:  59; tp:   7; fp:   0]
+         LST: precision:    0.00%;  recall:    0.00%; F1:    0.00%. [target:  32; tp:   0; fp:  82]
+         UCP: precision:    0.00%;  recall:    0.00%; F1:    0.00%. [target:   0; tp:   0; fp:   1]
+

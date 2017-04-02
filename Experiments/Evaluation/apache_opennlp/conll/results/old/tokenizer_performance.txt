@@ -1,0 +1,5 @@
+Evaluating ... done
+
+Precision: 0.9945586693963111
+Recall: 0.997279259015524
+F-Measure: 0.9959171062214474

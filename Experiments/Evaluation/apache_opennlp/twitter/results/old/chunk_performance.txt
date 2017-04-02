@@ -1,0 +1,21 @@
+current: 311.7 sent/s avg: 311.7 sent/s total: 312 sent
+current: 244.5 sent/s avg: 278.5 sent/s total: 557 sent
+
+
+Average: 323.1 sent/s 
+Total: 788 sent
+Runtime: 2.439s
+
+Evaluated 787 samples with 8284 entities; found: 8110 entities; correct: 6394.
+       TOTAL: precision:   78.84%;  recall:   77.18%; F1:   78.00%.
+          PP: precision:   90.79%;  recall:   91.24%; F1:   91.02%. [target: 1027; tp: 937; fp:  95]
+          VP: precision:   85.81%;  recall:   86.13%; F1:   85.97%. [target: 1882; tp: 1621; fp: 268]
+          NP: precision:   75.44%;  recall:   79.63%; F1:   77.48%. [target: 3996; tp: 3182; fp: 1036]
+        ADVP: precision:   70.93%;  recall:   71.59%; F1:   71.26%. [target: 535; tp: 383; fp: 157]
+        SBAR: precision:   71.57%;  recall:   70.87%; F1:   71.22%. [target: 103; tp:  73; fp:  29]
+         PRT: precision:   83.33%;  recall:   50.46%; F1:   62.86%. [target: 109; tp:  55; fp:  11]
+        ADJP: precision:   69.35%;  recall:   53.53%; F1:   60.42%. [target: 241; tp: 129; fp:  57]
+        INTJ: precision:   20.90%;  recall:    3.60%; F1:    6.14%. [target: 389; tp:  14; fp:  53]
+       CONJP: precision:    0.00%;  recall:    0.00%; F1:    0.00%. [target:   2; tp:   0; fp:   3]
+         LST: precision:    0.00%;  recall:    0.00%; F1:    0.00%. [target:   0; tp:   0; fp:   7]
+
